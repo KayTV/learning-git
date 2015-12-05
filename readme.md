@@ -18,6 +18,6 @@ this is a code snippet
 4. ordered
 5. list
 
-["a link?"]("//www.google.com")
+["a link?"]("http://www.google.com")
 
 mess up an add
